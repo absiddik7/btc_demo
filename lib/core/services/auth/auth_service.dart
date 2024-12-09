@@ -26,6 +26,31 @@ class AuthService extends BaseService {
     }
   }
 
+  Future<UserModel> login(String idToken) async {
+    try {
+      // Prepare the data to send to the API
+      final Map<String, String> requestData = {
+        'idToken': idToken,
+      };
+
+      // Send a POST request to the login endpoint
+      final response = await post('/auth/login', requestData);
+
+      // Check if the response indicates success
+      if (response.data['status'] == 'success') {
+        // Parse and return a UserModel object
+        return UserModel.fromJson(response.data);
+      } else {
+        // Extract and throw the error message if login fails
+        final errorMessage = response.data['message'] ?? 'Login failed';
+        throw errorMessage.toString();
+      }
+    } catch (e) {
+      // Throw any exceptions encountered during the login process
+      throw e.toString();
+    }
+  }
+
   // Sign in with Google
   Future<User?> signInWithGoogle() async {
     try {
@@ -49,8 +74,9 @@ class AuthService extends BaseService {
         String? idToken = await user.getIdToken();
         // Save the session token in shared preferences
         await AppSharedPreferences().saveIDToken(idToken!);
+        return user;
       }
-      return userCredential.user;
+      return user;
     } catch (e) {
       throw 'Failed to sign in with Google';
     }
@@ -122,6 +148,7 @@ class AuthService extends BaseService {
       if (user != null) {
         // Get the ID token
         String? idToken = await user.getIdToken();
+        print('Email Login ID Token: $idToken');
         // Save the session token
         await AppSharedPreferences().saveIDToken(idToken!);
         return idToken;

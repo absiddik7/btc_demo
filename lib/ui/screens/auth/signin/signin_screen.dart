@@ -198,7 +198,8 @@ class _SigninScreenState extends State<SigninScreen> {
           if (_formKey.currentState!.validate()) {
             showAppLoading(context);
             try {
-              await signInProvider.signInWithEmailAndPassword(
+              await signInProvider.loginUser(
+                context,
                 emailController.text.trim(),
                 passwordController.text.trim(),
               );
@@ -265,7 +266,7 @@ class _SigninScreenState extends State<SigninScreen> {
                 onPressed: () async {
                   showAppLoading(context);
                   try {
-                    await signInProvider.signInWithGoogle().then((value) {
+                    await signInProvider.loginUserWithSocial(context, signInProvider.signInWithGoogle).then((value) {
                       if (!context.mounted) return;
                       // Show success message
                       MessageService.showSuccess(context, 'Signed in as ${signInProvider.user?.displayName}');

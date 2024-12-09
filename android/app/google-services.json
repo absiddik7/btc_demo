@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "715190851611",
+    "project_id": "bitcoin-canvas",
+    "storage_bucket": "bitcoin-canvas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715190851611:android:f383dc31cc113e3d2040be",
+        "android_client_info": {
+          "package_name": "com.example.mybtccanvas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715190851611-all6mjpeipg2bd5oqsibj9dl1nht6u79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mybtccanvas",
+            "certificate_hash": "5d71e5a205bee5c66b84df018403f046e137b8fb"
+          }
+        },
+        {
+          "client_id": "715190851611-pmg9rlsruh2e83dqelphldq8rsi4ijpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAWJma0lyvR4w8g0W-oknFS8bHtVoI4is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715190851611-pmg9rlsruh2e83dqelphldq8rsi4ijpj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715190851611-m1ert4khrur72i7lm9005d651dpp664f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mybtccanvas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
