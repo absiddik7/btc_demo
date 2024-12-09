@@ -1,0 +1,170 @@
+{
+    "splash_title" : "BITCOIN CANVAS",
+    "splash_subtitle" : "BITCOIN MADE BEAUTIFUL",
+
+    "app_name" : "BITCOIN CANVAS",
+    "app_title" : "My Bitcoin Canvas",
+    
+
+    "explore_and_discover" : "Explore and discover",
+    "total_points" : "Total points",
+    "active_course" : "Active course",
+    "watch_video" : "Watch video",
+    "read_more" : "Read more",
+    "getting_started" : "Getting Started",
+    "document" : "Document",
+    "active_courses" : "Active courses",
+    "popular_courses" : "Popular courses",
+    "news" : "News",
+    "saved_articles" : "Saved articles",
+    "course_details" : "Course details",
+    "hours" : "hours",
+    "videos" : "videos",
+    "users" : "users",
+    "join" : "Join",
+    "take_a_quiz" : "Take a quiz",
+    "next_course" : "Next course",
+    "expand_less" : "Expand less",
+    "expand_more" : "Expand more",
+    "news_details" : "News Details",
+    "created_by" : "Created by ",
+    "quiz" : "Quiz",
+    "check" : "Check",
+    "quiz_completed" : "Quiz completed!",
+    "correct_answers" : "Correct answers",
+    "incorrect_answers" : "Incorrect answers",
+    "points" : "points",
+    "finish_and_Close" : "Finish & Close",
+    "outstanding" : "Outstanding",
+    "excellent" : "Excellent",
+    "good" : "Good",
+    "average" : "Average",
+    "poor" : "Poor",
+
+
+    "what_best_describes_you":"What best describes you?",
+    "what_interests_you_most":"What interests you most?",
+
+
+    "select_plan":"Select Plan",
+    "select_plan_description":"Select the plan that best suits your needs",
+    "annual":"Annual",
+    "monthly":"Monthly",
+
+
+    "select_theme":"Select Theme",
+    "select_theme_description":"Select the theme that best suits your needs",
+    "light":"Light",
+    "dark":"Dark",
+
+
+    "selecct_avatar":"Select Avatar",
+    "selecct_avatar_description":"Select the avatar that best suits your needs",
+    "upload_own_photo":"Wanna upload your own photo?",
+
+
+    "thanks_for_joining_us":"Thanks for joining us!",
+    "thanks_for_joining_us_description":"You're account setup completed. \nYou're free to use the app.",
+
+    
+    "next": "Next",
+    "skip": "Skip",
+    "upload": "Upload",
+    "lets_go": "Let's Go!",
+    "or" : "or",
+
+
+    "profile" : "Profile",
+    "general" : "General",
+    "personal_info" : "Personal Info",
+    "account_details" : "Account details",
+    "password" : "Password",
+    "other" : "Other",
+    "leave_feedback" : "Leave feedback",
+    "rate_us" : "Rate us",
+    "feature_request" : "Feature Request",
+    "contact_support" : "Contact Support",
+    "privacy_policy" : "Privacy Policy",
+    "log_out" : "Log Out",
+
+
+    "appearance" : "Appearance",
+    "light_mode" : "Light Mode",
+    "dark_mode" : "Dark Mode",
+    "system_settings" : "System Settings",
+
+    
+    "language" : "Language",
+    "english" : "English",
+    "german" : "German",
+    "italian" : "Italian",
+    "spanish" : "Spanish",
+
+
+    "subscriptions" : "Subscriptions",
+    "select_subscription" : "Select subscription",
+    "cancel_subscription" : "Cancel subscription",
+
+
+    "currency" : "Currency",
+    "binance" : "Binance",
+    "coinbase" : "Coinbase",
+    "kraken" : "Kraken",
+    "by_default" : "By default",
+
+
+    "profile_info" : "Profile Info",
+    "pre_made_avatars" : "Pre-made avatars",
+    "display_name" : "Display Name",
+    "save_changes" : "Save Changes",
+    "upload_photo" : "Upload Photo",
+    "delete_photo" : "Delete Photo",
+    "gallery" : "Gallery",
+    "camera" : "Camera",
+
+
+    "preferred_exchange" : "Preferred Exchange",
+
+
+    "welcome_title" : "Welcome to \nBitcoin Canvas",
+    "welcome_subtitle" : "Exploring the Fusion of Art and Cryptocurrency in a Digital Masterpiece",
+
+    "login_title" : "Login to your account",
+    "signup_title" : "Sign Up to your new account",
+    "signin" : "Sign In",
+    "signup" : "Sign Up",
+    "login" : "Log In",
+    "email" : "Email",
+    "name": "Name",
+    "send" : "Send",
+    "confirm": "Confirm",
+    "set_password" : "Set Password",
+    "current_password" : "Current Password",
+    "confirm_password" : "Confirm Password",
+    "new_password" : "New password",
+    "confirm_new_password" : "Confirm new password",
+    "forgot_password" : "Forgot Password",
+    "forgot_password_description" : "Enter your email so we can send you a verification code",
+    "forgot_current_password" : "Forgot current password?",
+    "new_password_description" : "Enter your new password.",
+    "dont_have_account" : "Don't have an account?",
+    "already_have_account" : "Already have an account?",
+    "check_email" : "Check Email",
+    "check_email_description" : "We have sent you an email with a code.",
+    "enter_code" : "Enter Code",
+    "enter_code_description" : "Enter the code we sent you by email.",
+    "didnt_get_code" : "Didn't get the code? Send again",
+    "resend_email" : "Resend the email in",
+
+
+    "email_empty_error" : "Email cannot be empty",
+    "email_invalid_error" : "Enter a valid email address",
+    "email_send_error" : "Failed to send email. Please try again",
+    "password_length_error" : "Password must be at least 6 characters long",
+    "password_empty_error" : "Password cannot be empty",
+    "password_match_error" : "Passwords do not match",
+    "password_confirm_error" : "Please confirm your password",
+    "name_empty_error" : "Name cannot be empty"
+    
+
+}

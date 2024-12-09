@@ -1,0 +1,169 @@
+{
+    "splash_title" : "BITCOIN CANVAS",
+    "splash_subtitle" : "BITCOIN HECHO HERMOSO",
+
+    "app_name" : "BITCOIN CANVAS",
+    "app_title" : "Mi Bitcoin Canvas",
+    
+
+    "explore_and_discover" : "Explorar y descubrir",
+    "total_points" : "Puntos totales",
+    "active_course" : "Curso activo",
+    "watch_video" : "Ver video",
+    "read_more" : "Leer más",
+    "getting_started" : "Empezando",
+    "document" : "Documento",
+    "active_courses" : "Cursos activos",
+    "popular_courses" : "Cursos populares",
+    "news" : "Noticias",
+    "saved_articles" : "Artículos guardados",
+    "course_details" : "Detalles del curso",
+    "hours" : "horas",
+    "videos" : "videos",
+    "users" : "usuarios",
+    "join" : "Unirse",
+    "take_a_quiz" : "Hacer un quiz",
+    "next_course" : "Próximo curso",
+    "expand_less" : "Mostrar menos",
+    "expand_more" : "Mostrar más",
+    "news_details" : "Detalles de la noticia",
+    "created_by" : "Creado por ",
+    "quiz" : "Quiz",
+    "check" : "Verificar",
+    "quiz_completed" : "¡Quiz completado!",
+    "correct_answers" : "Respuestas correctas",
+    "incorrect_answers" : "Respuestas incorrectas",
+    "points" : "puntos",
+    "finish_and_Close" : "Terminar y cerrar",
+    "outstanding" : "Sobresaliente",
+    "excellent" : "Excelente",
+    "good" : "Bueno",
+    "average" : "Promedio",
+    "poor" : "Pobre",
+
+
+    "what_best_describes_you":"¿Qué te describe mejor?",
+    "what_interests_you_most":"¿Qué te interesa más?",
+
+
+    "select_plan":"Seleccionar plan",
+    "select_plan_description":"Selecciona el plan que mejor se adapte a tus necesidades",
+    "annual":"Anual",
+    "monthly":"Mensual",
+
+
+    "select_theme":"Seleccionar tema",
+    "select_theme_description":"Selecciona el tema que mejor se adapte a tus necesidades",
+    "light":"Claro",
+    "dark":"Oscuro",
+
+
+    "selecct_avatar":"Seleccionar avatar",
+    "selecct_avatar_description":"Selecciona el avatar que mejor se adapte a tus necesidades",
+    "upload_own_photo":"¿Quieres subir tu propia foto?",
+
+
+    "thanks_for_joining_us":"¡Gracias por unirte a nosotros!",
+    "thanks_for_joining_us_description":"La configuración de tu cuenta se completó. \nEres libre de utilizar la aplicación.",
+
+    "next": "Siguiente",
+    "skip": "Saltar",
+    "upload": "Subir",
+    "lets_go": "¡Vamos!",
+    "or" : "O",
+
+
+    "profile" : "Perfil",
+    "general" : "General",
+    "personal_info" : "Información personal",
+    "account_details" : "Detalles de la cuenta",
+    "password" : "Contraseña",
+    "other" : "Otro",
+    "leave_feedback" : "Dejar comentarios",
+    "rate_us" : "Califícanos",
+    "feature_request" : "Solicitud de función",
+    "contact_support" : "Contactar soporte",
+    "privacy_policy" : "Política de privacidad",
+    "log_out" : "Cerrar sesión",
+
+
+    "appearance" : "Apariencia",
+    "light_mode" : "Modo claro",
+    "dark_mode" : "Modo oscuro",
+    "system_settings" : "Configuraciones del sistema",
+
+
+    "language" : "Language",
+    "english" : "English",
+    "german" : "German",
+    "italian" : "Italian",
+    "spanish" : "Spanish",
+
+
+    "subscriptions" : "Suscripciones",
+    "select_subscription" : "Seleccionar suscripción",
+    "cancel_subscription" : "Cancelar suscripción",
+
+
+    "currency" : "Moneda",
+    "binance" : "Binance",
+    "coinbase" : "Coinbase",
+    "kraken" : "Kraken",
+    "by_default" : "Por defecto",
+
+
+    "profile_info" : "Información del perfil",
+    "pre_made_avatars" : "Avatares predefinidos",
+    "display_name" : "Nombre de visualización",
+    "save_changes" : "Guardar cambios",
+    "upload_photo" :  "Subir foto",
+    "delete_photo" : "Eliminar foto",
+    "gallery" : "Galería",
+    "camera" : "Cámara",
+
+
+    "preferred_exchange" : "Intercambio preferido",
+
+
+    "welcome_title" : "Bienvenido a \nBitcoin Canvas",
+    "welcome_subtitle" : "Explorando la fusión del arte y las criptomonedas en una obra maestra digital",
+
+    "login_title" : "Inicie sesión en su cuenta",
+    "signup_title" : "Regístrese en su nueva cuenta",
+    "signin" : "Iniciar sesión",
+    "signup" : "Inscribirse",
+    "login" : "Acceso",
+    "email" : "Correo electrónico",
+    "name": "Nombre",
+    "send" : "Enviar",
+    "confirm": "Confirmar",
+    "set_password" : "Establecer contraseña",
+    "current_password" : "Contraseña actual",
+    "confirm_password" : "Confirmar contraseña",
+    "new_password" : "Nueva contraseña",
+    "confirm_new_password" : "Confirmar nueva contraseña",
+    "forgot_password" : "Has olvidado tu contraseña",
+    "forgot_password_description" : "Ingresa tu correo electrónico para que podamos enviarte un código de verificación",
+    "forgot_current_password" : "¿Olvidaste la contraseña actual?",
+    "new_password_description" : "Introduce tu nueva contraseña.",
+    "dont_have_account" : "¿No tienes una cuenta?",
+    "already_have_account" : "¿Ya tienes una cuenta?",
+    "check_email" : "Comprobar correo electrónico",
+    "check_email_description" : "Te hemos enviado un correo electrónico con un código.",
+    "enter_code" : "Introducir código",
+    "enter_code_description" : "Introduce el código que te enviamos por correo electrónico.",
+    "didnt_get_code" : "¿No recibiste el código? enviar de nuevo",
+    "resend_email" : "Reenviar el correo electrónico en",
+
+
+    "email_empty_error" : "El correo electrónico no puede estar vacío.",
+    "email_invalid_error" : "Introduzca una dirección de correo electrónico válida",
+    "email_send_error" : "No se pudo enviar el correo electrónico. Por favor inténtalo de nuevo",
+    "password_length_error" : "La contraseña debe tener al menos 6 caracteres",
+    "password_empty_error" : "La contraseña no puede estar vacía",
+    "password_match_error" : "Las contraseñas no coinciden",
+    "password_confirm_error" : "Por favor confirma tu contraseña",
+    "name_empty_error" : "El nombre no puede estar vacío"
+
+
+}

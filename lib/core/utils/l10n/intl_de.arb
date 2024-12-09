@@ -1,0 +1,173 @@
+{
+    "splash_title" : "BITCOIN CANVAS",
+    "splash_subtitle" : "BITCOIN SCHÖN GEMACHT",
+
+    "app_name" : "BITCOIN CANVAS",
+    "app_title" : "Mein Bitcoin Canvas",
+    
+
+    "explore_and_discover" : "Erkunden und entdecken",
+    "total_points" : "Gesamtpunkte",
+    "active_course" : "Aktiver Kurs",
+    "watch_video" : "Video ansehen",
+    "read_more" : "Mehr lesen",
+    "getting_started" : "Erste Schritte",
+    "document" : "Dokument",
+    "active_courses" : "Aktive Kurse",
+    "popular_courses" : "Beliebte Kurse",
+    "news" : "Nachrichten",
+    "saved_articles" : "Gespeicherte Artikel",
+    "course_details" : "Kursdetails",
+    "hours" : "Stunden",
+    "videos" : "Videos",
+    "users" : "Benutzer",
+    "join" : "Beitreten",
+    "take_a_quiz" : "Mach ein Quiz",
+    "next_course" : "Nächster Kurs",
+    "expand_less" : "Weniger anzeigen",
+    "expand_more" : "Mehr anzeigen",
+    "news_details" : "Nachrichtendetails",
+    "created_by" : "Erstellt von ",
+    "quiz" : "Quiz",
+    "check" : "Überprüfen",
+    "quiz_completed" : "Quiz abgeschlossen!",
+    "correct_answers" : "Richtige Antworten",
+    "incorrect_answers" : "Falsche Antworten",
+    "points" : "Punkte",
+    "finish_and_Close" : "Beenden & Schließen",
+    "outstanding" : "Hervorragend",
+    "excellent" : "Ausgezeichnet",
+    "good" : "Gut",
+    "average" : "Durchschnittlich",
+    "poor" : "Schlecht",
+
+
+    "what_best_describes_you":"Was beschreibt dich am besten?",
+    "what_interests_you_most":"Was interessiert dich am meisten?",
+
+
+    "select_plan":"Plan auswählen",
+    "select_plan_description":"Wählen Sie den Plan aus, der am besten zu Ihren Bedürfnissen passt",
+    "annual":"Jährlich",
+    "monthly":"Monatlich",
+
+
+    "select_theme":"Thema auswählen",
+    "select_theme_description":"Wählen Sie das Thema aus, das am besten zu Ihren Bedürfnissen passt",
+    "light":"Hell",
+    "dark":"Dunkel",
+
+
+    "selecct_avatar":"Avatar auswählen",
+    "selecct_avatar_description":"Wählen Sie den Avatar aus, der am besten zu Ihren Bedürfnissen passt",
+    "upload_own_photo":"Möchten Sie Ihr eigenes Foto hochladen?",
+
+
+    "thanks_for_joining_us":"Danke, dass Sie sich uns angeschlossen haben!",
+    "thanks_for_joining_us_description":"Die Einrichtung Ihres Kontos ist abgeschlossen. \nEs steht Ihnen frei, die App zu nutzen.",
+
+
+    "next": "Nächster",
+    "skip": "Überspringen",
+    "upload": "Hochladen",
+    "lets_go": "Los geht's!",
+    "or" : "oder",
+
+
+    
+    "profile" : "Profil",
+    "general" : "Allgemein",
+    "personal_info" : "Persönliche Informationen",
+    "account_details" : "Kontodetails",
+    "password" : "Passwort",
+    "other" : "Andere",
+    "leave_feedback" : "Feedback geben",
+    "rate_us" : "Bewerten Sie uns",
+    "feature_request" : "Funktionsanfrage",
+    "contact_support" : "Kontaktieren Sie den Support",
+    "privacy_policy" : "Datenschutz-Bestimmungen",
+    "log_out" : "Ausloggen",
+
+
+    "appearance" : "Erscheinungsbild",
+    "light_mode" : "Heller Modus",
+    "dark_mode" : "Dunkler Modus",
+    "system_settings" : "Systemeinstellungen",
+
+
+    "language" : "Language",
+    "english" : "English",
+    "german" : "German",
+    "italian" : "Italian",
+    "spanish" : "Spanish",
+
+
+    "subscriptions" : "Abonnements",
+    "select_subscription" : "Abonnement auswählen",
+    "cancel_subscription" : "Abonnement kündigen",
+
+
+    "currency" : "Währung",
+    "binance" : "Binance",
+    "coinbase" : "Coinbase",
+    "kraken" : "Kraken",
+    "by_default" : "Standardmäßig",
+
+
+    "profile_info" : "Profilinformationen",
+    "pre_made_avatars" : "Vorgefertigte Avatare",
+    "display_name" : "Anzeigename",
+    "save_changes" : "Änderungen speichern",
+    "upload_photo" : "Foto hochladen",
+    "delete_photo" : "Foto löschen",
+    "gallery" : "Galerie",
+    "camera" : "Kamera",
+
+
+    "preferred_exchange" : "Bevorzugter Austausch",
+
+
+    "welcome_title" : "Willkommen bei \nBitcoin Canvas",
+    "welcome_subtitle" : "Erkundung der Verschmelzung von Kunst und Kryptowährung in einem digitalen Meisterwerk",
+
+    "login_title" : "Melden Sie sich bei Ihrem Konto an",
+    "signup_title" : "Melden Sie sich bei Ihrem neuen Konto an",
+    "signin" : "Anmelden",
+    "signup" : "Melden Sie sich an",
+    "login" : "Einloggen",
+    "email" : "Email",
+    "name": "Name",
+    "send" : "Schicken",
+    "confirm": "Bestätigen",
+    "set_password" : "Passwort festlegen",
+    "current_password" : "Aktuelles Passwort",
+    "confirm_password" : "Passwort bestätigen",
+    "new_password" : "Neues Passwort",
+    "confirm_new_password" :  "Neues Passwort bestätigen",
+    "forgot_password" : "Passwort vergessen",
+    "forgot_password_description" : "Geben Sie Ihre E-Mail-Adresse ein, damit wir Ihnen einen Bestätigungscode senden können",
+    "forgot_current_password" : "Aktuelles Passwort vergessen?",
+    "new_password_description" : "Geben Sie Ihr neues Passwort ein.",
+    "dont_have_account" : "Sie haben noch kein Konto?",
+    "already_have_account" : "Sie haben bereits ein Konto?",
+    "check_email" : "E-Mail prüfen",
+    "check_email_description" : "Wir haben Ihnen eine E-Mail mit einem Code gesendet.",
+    "enter_code" : "Code eingeben",
+    "enter_code_description": "Geben Sie den Code ein, den wir Ihnen per E-Mail zugesandt haben.",
+    "didnt_get_code" : "Sie haben den Code nicht erhalten? Nochmals senden",
+    "resend_email" : "Senden Sie die E-Mail erneut",
+
+
+    "email_empty_error" : "E-Mail darf nicht leer sein",
+    "email_invalid_error" : "Geben Sie eine gültige E-Mail-Adresse ein",
+    "email_send_error" : "E-Mail konnte nicht gesendet werden. Bitte versuchen Sie es erneut",
+    "password_length_error" : "Das Passwort muss mindestens 6 Zeichen lang sein",
+    "password_empty_error" : "Das Passwort darf nicht leer sein",
+    "password_match_error" : "Passwörter stimmen nicht überein",
+    "password_confirm_error" : "Bitte bestätigen Sie Ihr Passwort",
+    "name_empty_error" : "Der Name darf nicht leer sein"
+
+
+
+}
+
